@@ -1,3 +1,3 @@
 # TwitterBob
 
-Twitter Bot for monitoring Give Aways
+Twitter Bot for monitoring giveaways
